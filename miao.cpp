@@ -8,7 +8,7 @@ int main(int argc, char **argv)
     
 	for(int i=0;i<10;i++){
         cout << i;
-        cout << "jeff";
+        cout << "boy";
     }
     system("pause");
     return 0;
